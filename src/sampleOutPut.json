@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"  
+            },
+            "author": "CBC News",
+            "title": "How a single tweet about a London, Ont., cricket plant became a flourishing conspiracy theory | CBC News",
+            "description": "A London, Ont., cricket factory that produces insects used as pet food is at the heart of a sweeping international conspiracy theory whose purveyors claim a global cabal of shadowy elites is trying to force people to eat bugs.",
+            "url": "http://www.cbc.ca/news/canada/london/london-ontario-cricket-factory-1.6562083",
+            "urlToImage": "https://i.cbc.ca/1.6506861.1656600185!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cricket-processing-facility.jpg",
+            "publishedAt": "2022-08-29T18:07:21.7849282Z",
+            "content": "A London, Ont., cricket factory that produces insects used as pet food has found itself at the heart of a sweeping international conspiracy theory whose purveyors claim a cabal of shadowy elites are … [+9118 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
